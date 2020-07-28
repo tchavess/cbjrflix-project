@@ -1,75 +1,75 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Audio 8D",
+      "link": "www.linkedin.com/in/thiago-chaves",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Classico dos rock com qualidade 8D",
+        "url": "https://www.youtube.com/playlist?list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Bem vindo ao portal com os maiores classicos de todos os tempos. #RockNaVeia",
+          "url": "https://www.youtube.com/watch?v=Uic_xaCwJe0&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=3&t=0s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Van Halen - Ain't Talkin bout Love [Rock Classic] (8D AUDIO) 🎧",
+          "url": "https://www.youtube.com/watch?v=5FpzlgHuPl8&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=4&t=0s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Nirvana - Smell Like Teen Spirit (8D AUDIO) 🎧",
+          "url": "https://www.youtube.com/watch?v=2ZvCICy1GkA&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Queen - Bohemian Rhasody (8D AUDIO)",
+          "url": "https://www.youtube.com/watch?v=Av-8HJs9ses&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=17"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Limp Bizkit - Take A Look Around [Rock] ( 8D AUDIO ) 🎧 (Mission impossible 2 OST)",
+          "url": "https://www.youtube.com/watch?v=OAAA-7Wgck4&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=1"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lenny Kravitz - Are You Gonna Go My Way (8D AUDIO) 🎧",
+          "url": "https://www.youtube.com/watch?v=jzfVMDs6GS8&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=9"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "The Verve - Bitter Sweet Symphony (8D Audio)",
+          "url": "https://www.youtube.com/watch?v=DZs8ToHrCwQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Pink Floyd - Wish You Were Here (8D Audio)",
+          "url": "https://www.youtube.com/watch?v=U-37H6RapTU"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Nacional",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Coletania com os maiores classicos do rock nacional",
+        "url": "https://www.youtube.com/watch?v=JRJj4z-prvM&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Legião Urbana - Tempo Perdido (ao vivo) Especial",
+          "url": "https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL&index=3"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O Rappa - Anjos \"Pra Quem Tem Fé\" (Webclipe) #novosomdorappa",
+          "url": "https://www.youtube.com/watch?v=BPbCLtBl_g4&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL&index=17"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Charlie Brown Jr - Acústico MTV (DVD Completo + Legenda)",
+          "url": "https://www.youtube.com/watch?v=OnVSsDlxAq4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Charlie Brown Jr - Música Popular Caiçara (DVD Oficial)",
+          "url": "https://www.youtube.com/watch?v=8c7fLIkHvW4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CPM 22 - João Rock 2019 (Show Completo)",
+          "url": "https://www.youtube.com/watch?v=qinYbjMdRgw"
         }
       ]
     },
