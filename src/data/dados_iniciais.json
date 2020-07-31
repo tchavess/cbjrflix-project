@@ -5,12 +5,12 @@
       "link": "www.linkedin.com/in/thiago-chaves",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Classico dos rock com qualidade 8D",
+        "text": "",
         "url": "https://www.youtube.com/playlist?list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb"
       },
       "videos": [
         {
-          "titulo": "Bem vindo ao portal com os maiores classicos de todos os tempos. #RockNaVeia",
+          "titulo": "#Rockflix, tudo sobre musica!",
           "url": "https://www.youtube.com/watch?v=Uic_xaCwJe0&list=PL2dqgAZmNQu6nkVcJqxmtmYp1_iQiJ4eb&index=3&t=0s"
         },
         {
@@ -47,7 +47,7 @@
       "titulo": "Nacional",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Coletania com os maiores classicos do rock nacional",
+        "text": "",
         "url": "https://www.youtube.com/watch?v=JRJj4z-prvM&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL"
       },
       "videos": [
@@ -74,28 +74,36 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Live",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Queen - Live Aid 1985 Full Concert (Best Version) (FULL HD)",
+          "url": "https://www.youtube.com/watch?v=NIR1RuRjPUk"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Depeche Mode - Enjoy The Silence [Live] (Official Video)",
+          "url": "https://www.youtube.com/watch?v=aWGzr-kOoQY"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Dire Straits - Sultans Of Swing (Alchemy Live)",
+          "url": "https://www.youtube.com/watch?v=8Pa9x9fZBtY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Pink Floyd Live The Reunion Full Concert (Enhanced Video)",
+          "url": "https://www.youtube.com/watch?v=Twb65Ov67ZA"
+        },
+        {
+          "titulo": "Iron Maiden - Fear Of The Dark (Live At Rock In Rio)",
+          "url": "https://www.youtube.com/watch?v=epYKVcHrVr0"
+        },
+        {
+          "titulo": "AC/DC - Thunderstruck (Live At River Plate, December 2009))",
+          "url": "https://www.youtube.com/watch?v=n_GFN3a0yj0"
         }
       ]
     },
@@ -110,6 +118,14 @@
         {
           "titulo": "Gattaca",
           "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         },
         {
           "titulo": "A Chegada",
